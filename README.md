@@ -22,12 +22,12 @@
 
 | Plataforma | Download | Requisitos |
 | --- | --- | --- |
-| **Android** | [Sonar.apk](https://github.com/GabryelKadmo/sonar-download/releases/latest) | Android 7.0 ou superior |
-| **Windows** | [Sonar-Setup.exe](https://github.com/GabryelKadmo/sonar-download/releases/latest) | Windows 10 ou 11, 64 bits |
+| **Android** | [Sonar.apk](https://github.com/GabryelKadmo/sonar-download/releases/latest/download/Sonar.apk) | Android 7.0 ou superior |
+| **Windows** | [Sonar-Setup.exe](https://github.com/GabryelKadmo/sonar-download/releases/latest/download/Sonar-Setup.exe) | Windows 10 ou 11, 64 bits |
 | **Navegador** | [Abrir o Sonar](https://sonar-streaming.vercel.app) | Qualquer navegador moderno |
 | **TV (LG webOS)** | Em breve | |
 
-> A primeira versão (0.1.0) ainda está sendo finalizada. Assim que sair, os arquivos aparecem em [Releases](https://github.com/GabryelKadmo/sonar-download/releases).
+> Versão atual: **0.1.0**. As notas de cada versão e os checksums (`SHA256SUMS.txt`) estão em [Releases](https://github.com/GabryelKadmo/sonar-download/releases).
 
 ### Como instalar
 
